@@ -1,0 +1,25 @@
+├── src/
+│   ├── graphics.cpp
+│   └── graphics.h
+├── include/
+│   ├── graphics/
+│   │   ├── shape.h
+│   │   ├── rectangle.h
+│   │   ├── circle.h
+│   │   ├── line.h
+│   │   ├── point.h
+│   │   └── color.h
+│   └── README.md
+├── examples/
+│   ├── main.cpp
+│   └── README.md
+├── tests/
+│   ├── shape_test.cpp
+│   ├── rectangle_test.cpp
+│   ├── circle_test.cpp
+│   ├── line_test.cpp
+│   ├── point_test.cpp
+│   ├── color_test.cpp
+│   └── README.md
+├── LICENSE
+└── README.md 
